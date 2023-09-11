@@ -99,15 +99,7 @@ npm run commit
 
 #### 1、登录页：
 
-![hooks-login-light](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220914150533.png)
-
-![hooks-login-dark](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220914150544.png)
-
 #### 2、首页：
-
-![hooks-home-light](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220914150552.png)
-
-![hooks-home-dark](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220914150559.png)
 
 ### 六、文件资源目录 📚
 
@@ -161,12 +153,6 @@ Hooks-Admin
 ### 七、浏览器支持
 
 > 默认支持以下浏览器。更多浏览器可以查看 [Can I Use Es Module](https://caniuse.com/?search=ESModule)
->
-> **💢 请不要使用 QQ 浏览器开发，QQ 浏览器 不识别 某些 ES6 以上语法**
-
-| ![Edge](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/md/Edge.png) | ![Firefox](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/md/Firefox.png) | ![Chrome](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/md/Chrome.png) | ![Safari](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/md/Safari.png) |
-| :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-|                              last 2 versions                              |                                 last 2 versions                                 |                                last 2 versions                                |                                last 2 versions                                |
 
 ### 八、项目后台接口 🧩
 
@@ -174,23 +160,3 @@ Hooks-Admin
 
 - FastMock： https://www.fastmock.site/
 - EasyMock：https://mock.mengxuegu.com/
-
-### 九、微信交流群
-
-> 微信群已超过 200 人，需要加我好友，拉大家进群 🤪
-
-|                                            微信二维码                                             |
-| :-----------------------------------------------------------------------------------------------: |
-| <img src="https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220914145852.png" width=200> |
-
-### 十、捐赠 🍵
-
-> **如果你正在使用这个项目或者喜欢这个项目的，可以通过以下方式支持我**
-
-- **Star、Fork、Watch** 一键三连 🚀🚀
-
-- 通过 **微信、支付宝** 一次性捐款，够维护访问地址就行 🤣🤣
-
-|                                                         微信                                                          |                                                        支付宝                                                         |
-| :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220610144145.png" alt="Wechat QRcode" width=170> | <img src="https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220610144200.png" alt="Alipay QRcode" width=170> |
