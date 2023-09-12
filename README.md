@@ -36,15 +36,6 @@
 
 ### 四、安装使用步骤 📑
 
-- **Clone：**
-
-```text
-# Gitee
-git clone https://gitee.com/laramie/Hooks-Admin.git
-# GitHub
-git clone https://github.com/HalseySpicy/Hooks-Admin.git
-```
-
 - **Install：**
 
 ```text

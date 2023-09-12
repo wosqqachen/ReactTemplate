@@ -14,7 +14,7 @@ export default defineConfig((mode: ConfigEnv): UserConfig => {
 	const viteEnv = wrapperEnv(env) as any;
 
 	return {
-		// base: "/",
+		// base: "/dist",
 		// alias config
 		resolve: {
 			alias: {
